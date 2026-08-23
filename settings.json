@@ -29,11 +29,12 @@
     "chat-messages": {
       "enabled": false,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 30,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Mera Naam Bhavy Hai, Mai sabse bada randwa hun",
+        "Merko Chudwane me bada maza att hai"
+        "Mera Banswara me ek kotha Hai"
+        "Mera regular customer vaidikk hai"
       ]
     },
     "chat-log": true,
