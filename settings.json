@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BHAVYDASERVER.aternos.me",
-    "port": 39450,
+    "ip": "ITHONE.aternos.me",
+    "port": 41342,
     "version": "1.20.1",
     "try-creative": false
   },
